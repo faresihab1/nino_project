@@ -1,0 +1,54 @@
+vaccine,formulation,typical_age_months,typical_age_label,dose_info,notes
+Hepatitis B,Monovalent,0,Birth,Dose 1,Birth dose within 24 hours
+Hepatitis B,Monovalent,1.5,6 weeks,Dose 2,Align with DTP/hexavalent where used
+Hepatitis B,Monovalent,6,6 months,Dose 3,"Final dose ≥24 weeks of age; schedules vary"
+BCG,Intradermal,0,Birth,Single,"In TB-burdened settings; scar often forms"
+Polio,bOPV,0,Birth,Zero dose,"If OPV is used; IPV-only countries omit"
+Polio,bOPV,1.5,6 weeks,Dose 1,"OPV primary series where used"
+Polio,bOPV,2.5,10 weeks,Dose 2,"OPV primary series where used"
+Polio,bOPV,3.5,14 weeks,Dose 3,"OPV primary series where used"
+Polio,IPV,3.5,14 weeks,Dose 1,"IPV given at/after 14 weeks; some programs give 2 doses"
+Polio,IPV,18,18 months,Booster,"Booster timing varies"
+Polio,IPV or bOPV,54,4–7 years,Booster,"School-entry booster"
+DTP-HepB-Hib,Pentavalent,1.5,6 weeks,Dose 1,"Primary series; combines DTP, HepB, Hib"
+DTP-HepB-Hib,Pentavalent,2.5,10 weeks,Dose 2,Primary series
+DTP-HepB-Hib,Pentavalent,3.5,14 weeks,Dose 3,Primary series
+DTP,DTaP/Tdap,18,15–18 months,Booster 1,First booster after primary series
+DTP,DTaP/Tdap,54,4–7 years,Booster 2,School-entry booster
+DTP,Tdap,132,11–13 years,Booster 3,Adolescent booster
+Hib,Monovalent,1.5,6 weeks,Dose 1,"If not using pentavalent/hexavalent"
+Hib,Monovalent,2.5,10 weeks,Dose 2,Primary series
+Hib,Monovalent,3.5,14 weeks,Dose 3,Primary series
+Hib,Monovalent,12,12–15 months,Booster,"Where booster schedule is used"
+Pneumococcal,PCV10/13/15/20,1.5,6 weeks,Dose 1,"3+0 or 2+1 schedule depending on program"
+Pneumococcal,PCV10/13/15/20,2.5,10 weeks,Dose 2,"If 3+0 schedule"
+Pneumococcal,PCV10/13/15/20,3.5,14 weeks,Dose 3,"If 3+0 schedule"
+Pneumococcal,PCV10/13/15/20,12,12–15 months,Booster,"For 2+1 schedule"
+Rotavirus,Monovalent,1.5,6 weeks,Dose 1,"Observe max age for first dose"
+Rotavirus,Monovalent,2.5,10 weeks,Dose 2,Final dose for 2-dose product
+Rotavirus,3-dose product,3.5,14 weeks,Dose 3,Final dose for 3-dose product
+Measles-containing vaccine,MCV/MMR,9,9 months,Dose 1,"Some countries use 12 months"
+Measles-containing vaccine,MCV/MMR,15,15–18 months,Dose 2,"Second routine dose"
+Measles-containing vaccine,MMR/MMRV,54,4–7 years,Booster/Second dose,"Where second dose is scheduled later"
+Varicella,Monovalent,12,12–15 months,Dose 1,"Program-dependent"
+Varicella,Monovalent,54,4–7 years,Dose 2,"Program-dependent; may pair with MMRV"
+Hepatitis A,Monovalent,12,12–23 months,Dose 1,"2-dose series, spaced 6–18 months"
+Hepatitis A,Monovalent,18,18–41 months,Dose 2,"Second dose to complete series"
+Influenza,Inactivated/LAIV,6,6 months+,Annual,"Annual vaccination; 2 doses first season if <9y and vaccine-naive"
+Yellow fever,Live,9,9 months,Single,"In endemic countries; check boosters per policy"
+Meningococcal A,Conjugate,9,9–18 months,Dose 1,"In MenA belt or outbreak/at-risk settings"
+Meningococcal ACWY,Conjugate,9,9–18 months,Dose 1,"In countries using ACWY; boosters vary"
+Meningococcal ACWY,Conjugate,132,11–18 years,Booster,"Adolescent dose where used"
+Meningococcal B,Protein-based,24,2 years+,Series,"Schedules vary by product and risk"
+Japanese encephalitis,Inactivated/Live,9,9–12 months,Dose 1,"In endemic areas; schedule product-specific"
+Japanese encephalitis,Inactivated/Live,10,10–13 months,Dose 2,"Product/schedule dependent"
+Tick-borne encephalitis,Inactivated,12,1 year+,Series,"In endemic regions; 3-dose primary + boosters"
+Typhoid,TCV,9,9 months–2 years,Dose 1,"Typhoid conjugate vaccine; single dose with long protection"
+Typhoid,Vi polysaccharide,24,2 years+,Dose 1,"Boosters every 2–3 years"
+Typhoid,Oral Ty21a,72,6 years+,Series,"Oral capsules on alternating days"
+Cholera,OCV,12,1 year+,2-dose series,"In outbreak or high-risk settings"
+Rabies,Pre-exposure,12,1 year+,2–3 dose primary,"For high-risk groups; post-exposure schedules differ"
+Human papillomavirus (HPV),9-valent/bivalent/quadrivalent,120,9–14 years,2 doses,"0, 6–12 months for 2-dose schedule"
+Human papillomavirus (HPV),9-valent/bivalent/quadrivalent,180,15+ years,3 doses,"0, 1–2, 6 months schedule"
+COVID-19,mRNA/protein/inactivated,6,6 months+,Primary + boosters,"Product- and country-specific pediatric schedules"
+RSV maternal/VLP/monoclonal,Seasonal,0,Prenatal/early life,Single,"Protection strategy varies by product and policy"
