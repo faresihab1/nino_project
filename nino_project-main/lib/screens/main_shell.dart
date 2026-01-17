@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:nino/screens%20copy/nearby_pediatricians_screen.dart';
 import 'package:nino/screens/children_list_page.dart';
 import 'package:nino/screens/profile_page.dart';
 import 'package:nino/screens/settings_page.dart';
@@ -35,7 +36,7 @@ class _MainShellState extends State<MainShell> {
   Widget build(BuildContext context) {
     final pages = [
       ChildrenListPage(onChildSelected: _handleChildSelected), // My Children
-      const _LocationPlaceholder(),
+      const NearbyPediatriciansScreen(),
       HomePage(
         selectedChildId: _selectedChildId,
         selectedChildName: _selectedChildName,

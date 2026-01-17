@@ -19,8 +19,7 @@ Future<void> main() async {
 
   await NotificationService.initialize();
 
-  // ✅ Uncomment once to verify notifications work on your emulator:
-  // await NotificationService.testInOneMinute();
+
 
   runApp(const NinoApp());
 }

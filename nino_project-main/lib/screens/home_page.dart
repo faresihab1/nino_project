@@ -165,7 +165,7 @@ class _HomePageState extends State<HomePage> {
                                   Navigator.push(
                                     context,
                                     MaterialPageRoute(
-                                      builder: (_) => ChatbotPage(),
+                                      builder: (_) => ChatbotPage(childId: widget.selectedChildId),
                                     ),
                                   );
                                 },
@@ -180,7 +180,7 @@ class _HomePageState extends State<HomePage> {
                                   Navigator.push(
                                     context,
                                     MaterialPageRoute(
-                                      builder: (_) => const LabAnalyzerPage(),
+                                      builder: (_) => LabAnalyzerPage(childId: widget.selectedChildId),
                                     ),
                                   );
                                 },
